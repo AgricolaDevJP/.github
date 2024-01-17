@@ -18,5 +18,5 @@
 
 - 得意領域：Web全般
 - 使用言語：PHP, TypeScript, Goなど
-- 好きな職業：[[P02] 利他主義者](https://db.agricolajp.dev/AG1/card/P02), [[B126*] 大工](https://db.agricolajp.dev/AG2/card/B126)
-- 好きな小進歩：[[NL006] 裏庭](https://db.agricolajp.dev/AG1/card/NL006), [[D004] 横挽きの木材](https://db.agricolajp.dev/AG2/card/D004)
+- 好きな職業：[[P02] 利他主義者](https://db.agricolajp.dev/AG1/card/P02/), [[B126*] 大工](https://db.agricolajp.dev/AG2/card/B126/)
+- 好きな小進歩：[[NL006] 裏庭](https://db.agricolajp.dev/AG1/card/NL006/), [[D004] 横挽きの木材](https://db.agricolajp.dev/AG2/card/D004/)
